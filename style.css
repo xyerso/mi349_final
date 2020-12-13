@@ -1,0 +1,267 @@
+html {
+    background: url('fox1.jpg') no-repeat center fixed;
+    background-size: cover;   
+}
+
+.title{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%); 
+}
+
+.title h1{
+    display: inline-block;   
+}
+
+header a{
+    font-style: italic;
+    font-size: 80px;
+    color: #fff;
+    padding: 5px 20px;
+    border: 2px solid #fff;
+    text-decoration: none;
+}
+
+header a:hover{
+    background-color: #fff;
+    color: silver;
+}
+
+.words1{
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%,-50%); 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.slogan img{
+    max-width: 150px;
+    float: left;
+    opacity: 0.5;
+    border-radius: 55%;
+}
+
+.slogan1 img{
+    max-width: 150px;
+    float: right;
+    opacity: 0.5;
+    border-radius: 55%;
+}
+
+
+
+.title2 {
+    font-style: italic;
+    font-size: 25px;
+    background: linear-gradient(45deg, orange, yellow);
+    color: white;
+    position: sticky;
+    top: 0;
+    opacity: 0.6;
+}
+
+.Intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: orange;
+    position: absolute;
+    top: 15%;
+    left: 32%;
+    background: white;
+    opacity: 0.5;
+}
+
+.fox1 img{
+    max-width: 400px;
+    position: absolute;
+    top: 30%;
+}
+
+.fox2 img{
+    max-width: 400px;
+    position: absolute;
+    top:60%;
+
+}
+
+.fox3 img{
+    max-width: 400px;
+    position: absolute;
+    top:90%;
+}
+
+.fox11{
+    background:silver;
+    color: white;
+    opacity: 0.8;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    top: 40%;
+    left: 30%;
+}
+
+.fox22{
+    background:silver;
+    color: white;
+    opacity: 0.8;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    top: 70%;
+    left: 30%;
+}
+
+.fox33{
+    background:silver;
+    color: white;
+    opacity: 0.8;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    top: 100%;
+    left: 30%;
+}
+
+
+.articinfo{
+    background:linear-gradient(45deg, orange, yellow);
+    color: white;
+    opacity: 0.8;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top: 30%;
+    left: 70%;
+}
+.capeinfo{
+    background:  linear-gradient(45deg, orange, yellow);
+    color: white;
+    opacity: 0.8;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top: 60%;
+    left:70%;
+}
+
+.redinfo{
+    background:  linear-gradient(45deg, orange, yellow);
+    color: white;
+    opacity: 0.8;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top: 90%;
+    left: 70%;
+}
+
+li {
+    margin: 10px 0;
+}
+
+#play1{
+  background: springgreen;
+  color: white;
+  font-size: 40px;
+  border-radius: 8px;
+  display: inline-block;
+  border: none;
+  position: absolute;
+  top: 22%;
+  opacity: 0.5; 
+}
+
+hr{
+    color: white;
+    margin: 10px;
+}
+
+a[href="contact.html"]{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    background: linear-gradient(45deg, red, orange);
+    color: white;
+    opacity: 0.6;
+    position: absolute;
+    top: 140%;
+    left: 30%;
+    text-decoration: none;
+}
+
+.request{
+    font-style: italic;
+    font-size: 30px;
+    background: linear-gradient(45deg, orangered, yellow);
+    color: white;
+    opacity: 0.9;
+}
+
+form {
+    font-style: italic;
+    font-size: 20px;
+    background: linear-gradient(60deg, orange, silver);
+    color: white;
+    opacity: 0.8;
+}
+
+#button3{
+  background: linear-gradient(45deg, red, orange);
+  color: white;
+  font-size: 30px;
+  border-radius: 8px;
+  display: inline-block;
+  border: none;
+}
+
+a[href="index.html"]{
+    color: white;
+    text-decoration: none;
+}
+
+a[href="main.html"]{
+    color: white;
+    text-decoration: none;
+}
+
+.copyright{
+    position: absolute;
+    left: 40%;
+    top: 100%;
+}
+
+.copyright1{
+    position: absolute;
+    left: 40%;
+    top: 150%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
